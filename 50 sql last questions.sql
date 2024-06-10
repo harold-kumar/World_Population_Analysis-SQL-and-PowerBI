@@ -10,7 +10,7 @@ CREATE TABLE order_data (
     total_amount DECIMAL(10, 2)
 );
 
-
+https://github.com/harold-kumar/World_Population_Analysis-SQL-and-PowerBI/blob/main/Screenshot%20(247).png
 -- Add records
 
 -- Add records
